@@ -1,0 +1,27 @@
+# venv
+.venv/
+*.env
+
+# python cache/build
+__pycache__/
+*.py[cod]
+*.class
+build/
+dist/
+*.egg-info/
+
+# logs / outputs
+logs/
+!logs/.gitkeep
+*.log
+metrics.json
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# pytest / coverage
+.pytest_cache/
+.coverage
+htmlcov/
