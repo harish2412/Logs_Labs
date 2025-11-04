@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Logging Lab – Custom JSON Logger with FastAPI
 
 This project demonstrates how to build a structured logging and monitoring system in Python.  
