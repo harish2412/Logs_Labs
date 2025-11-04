@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logging Lab – Custom JSON Logger with FastAPI
 
 This project demonstrates how to build a structured logging and monitoring system in Python.  
@@ -89,3 +90,6 @@ Structured JSON logs enable:
 Harish Padmanabhan
 IE 7374 – MLOps
 
+=======
+# Logs_Labs
+>>>>>>> 7aeacebcd93ce41044132a6f5a199b59c8270b50
